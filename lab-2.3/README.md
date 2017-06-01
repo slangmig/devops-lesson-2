@@ -1,6 +1,6 @@
 # Devops lab 2.3 Docker Registry
 
-Working with a Docker registry.
+Working with a Docker registry
 
 ### Step 1
 
