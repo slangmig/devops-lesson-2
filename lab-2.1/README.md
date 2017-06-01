@@ -1,6 +1,6 @@
 # Devops Lab 2.1 Docker
 
-These instructions will guide you through the process of using Docker.
+These instructions will guide you through the process of using Docker
 
 ## Connect to the virtual machine.
 
