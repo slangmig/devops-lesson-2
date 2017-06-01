@@ -1,6 +1,6 @@
 # Devops Lab 2.2 Docker Images
 
-Working with Docker images.
+Working with Docker images
 
 ### Step 1
 
